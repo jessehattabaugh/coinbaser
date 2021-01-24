@@ -1,0 +1,27 @@
+{
+	"author": "Jesse Hattabaugh",
+	"bugs": {
+		"url": "https://github.com/jessehattabaugh/coinbaser/issues"
+	},
+	"description": "an app for automating coinbase trades",
+	"devDependencies": {
+		"next": "^10.0.5",
+		"react": "^17.0.1",
+		"react-dom": "^17.0.1"
+	},
+	"homepage": "https://github.com/jessehattabaugh/coinbaser#readme",
+	"license": "MIT",
+	"name": "coinbaser",
+	"private": true,
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/jessehattabaugh/coinbaser.git"
+	},
+	"scripts": {
+		"build": "next build",
+		"dev": "next dev",
+		"start": "next start",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"version": "0.0.0"
+}
