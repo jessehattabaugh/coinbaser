@@ -8,12 +8,7 @@ function HomePage() {
 				<title>CoinBaser</title>
 			</Head>
 			<header>
-				<Image
-					alt="coin"
-					height={32}
-					src="/icon512.png"
-					width={32}
-				/>
+				<Image alt="coin" height={32} src="/icon512.png" width={32} />
 				<h1>CoinBaser</h1>
 			</header>
 			<p>an app for automating coinbase trades</p>

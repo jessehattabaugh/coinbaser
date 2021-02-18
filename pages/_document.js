@@ -7,7 +7,7 @@ class CommonDocument extends Document {
 	}*/
 	render() {
 		return (
-			<Html lang="en">
+			<Html>
 				<Head>
 					<link
 						rel="apple-touch-icon"
